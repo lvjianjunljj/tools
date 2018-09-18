@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class MethodList {
+public class FIleMove {
     public static void copyFileUsingFileStreams(String sourceStr, String destStr) {
 
         InputStream input = null;
@@ -17,7 +17,6 @@ public class MethodList {
             output.close();
         } catch (Exception e) {
             System.out.println(e.getMessage());
-            System.out.println("*********");
                 if (input != null) {
                     try {
                         input.close();
