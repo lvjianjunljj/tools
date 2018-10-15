@@ -173,7 +173,7 @@ public class FileRead {
     }
 
     /**
-     * The following method is the sample of writing string to a file.
+     * The following method is the sample of reading string to a file.
      */
 
     /**
