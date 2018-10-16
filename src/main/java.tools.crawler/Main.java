@@ -19,7 +19,7 @@ import java.util.concurrent.Future;
  * @date 7/6/2018 4:53 PM
  */
 public class Main {
-    //log4j的是使用，不会的请看之前写的文章
+    //log4j的使用，不会的请看之前写的文章
     static final Log logger = LogFactory.getLog(Main.class);
 
     public static void main(String[] args) throws Exception {
